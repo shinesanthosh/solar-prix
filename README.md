@@ -1,10 +1,10 @@
 # Solar Prix
 
-An F1-inspired solar energy monitoring dashboard built with Next.js 14, Recharts, and Tailwind CSS.
+An F1-inspired solar energy monitoring dashboard built with Next.js 16, Recharts, and Tailwind CSS.
 
 > **Note:** The dashboard is currently running on mock data. A live API integration is planned — see [Connecting a Real API](#connecting-a-real-api) below.
 
-![Solar Prix Dashboard](https://img.shields.io/badge/status-mock--data-orange) ![Next.js](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Solar Prix Dashboard](https://img.shields.io/badge/status-mock--data-orange) ![Next.js](https://img.shields.io/badge/Next.js-16-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 
 ---
 
@@ -81,7 +81,7 @@ interface DashboardData {
 
 ## Tech Stack
 
-- [Next.js 14](https://nextjs.org/) — App Router, client components
+- [Next.js 16](https://nextjs.org/) — App Router, client components
 - [Recharts](https://recharts.org/) — Supply/demand chart and sparklines
 - [Tailwind CSS](https://tailwindcss.com/) — Layout and utilities
 - SVG — Tachometer bars and radial gauges (hand-rolled, no library)
