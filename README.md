@@ -8,6 +8,13 @@ An F1-inspired solar energy monitoring dashboard built with Next.js 16, Recharts
 
 ---
 
+## Screenshots
+
+![Tachometer panel](demo/tachometer-panel.png)
+![Entity gauges](demo/entity-gauges.png)
+
+---
+
 ## Features
 
 - **Live-updating dashboard** — all values refresh every second via a smooth random-walk mock API
